@@ -1,0 +1,3 @@
+[submodule "TrajOpt_CT-STL"]
+	path = TrajOpt_CT-STL
+	url = git@github.com:sametuzun781/TrajOpt_CT-STL.git
